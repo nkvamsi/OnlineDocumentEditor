@@ -1,0 +1,39 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.card {
+  border-radius: 0px 0px 27px 27px;
+  border-top: none;
+}
+
+.banner {
+  border-radius: 27px 27px 0px 0px;
+  border-bottom: none;
+  font-size: 40px;
+}
+
+.form-control,
+.btn {
+  border-radius: 27px;
+}
+
+.btn {
+  width: 20rem;
+  padding: 10px;
+  font-size: 20px;
+}
+.form-control {
+  font-size: 15px;
+  background-color: #ebebeb;
+  height: 3em;
+  padding: 0 35px 0 35px;
+  border-width: 0px;
+}
+
+.form-group {
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration-color: #1b3815;
+}
